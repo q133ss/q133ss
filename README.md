@@ -1,110 +1,148 @@
-# Привет 👋  
-Я Алексей - Fullstack-разработчик, который берёт на себя весь цикл сложных цифровых задач и доводит их до результата
+# Алексей Мирошкин - Fullstack (PHP/Laravel + Python) | Browser Automation (Playwright) | Data Pipelines
+[English](#english-version)
 
-Я подключаюсь к проектам, где **цена ошибки высокая**, сроки жёсткие, а результат должен работать **с первого дня**.  
-Работаю не как «исполнитель», а как технический партнёр - с ответственностью за запуск, стабильность и предсказуемость.
+Я делаю веб-сервисы и автоматизацию там, где "просто запросом к API" не работает: нестабильные интерфейсы, ограничения частоты, сложные пользовательские сценарии, очереди и фоновые задачи.
 
-Работал с **государственными проектами с формальной приёмкой** и с **публичными платформами для крупного бизнеса**, включая проекты Дмитрия Портнягина.
+- 5+ лет коммерческой разработки
+- Запуски с жесткими сроками и высокой ценой ошибки (включая гос-приемку)
+- E-commerce и маркетплейсы: автоматизация, сбор данных, надежные фоновые процессы
 
----
-
-## Чем я занимаюсь
-
-Я закрываю **весь цикл задач**, от идеи и архитектуры до продакшна и поддержки.
-
-### 🚀 Backend и автоматизация
-- Разработка backend-систем под высокую нагрузку  
-- REST API и сложные интеграции  
-- Автоматизация бизнес-процессов  
-- Работа с очередями, кэшем, отказоустойчивостью  
-- Подготовка проектов к приёмке и публичному запуску  
-
-### 🧠 Wildberries / маркетплейсы
-Практический опыт разработки сервисов для WB и e-commerce:
-- Автобронь и отслеживание слотов  
-- Поиск и мониторинг доступных окон  
-- Перераспределение поставок  
-- Интеграция с внутренними сервисами  
-- Сервисы, которые работают в реальных условиях, а не «в теории»
-
-### 🕵️ Эмуляция, парсинг, сложная логика
-- Эмуляция браузера и пользовательских сценариев  
-- Парсинг сложных сайтов и платформ
-- Обход ограничений, антибот-механизмов  
-- Работа с нестабильными источниками данных  
-- Проекты, где «просто запросом не решить»
-
-### 📱 Мобильные приложения (iOS / Android)
-
-Полный цикл разработки мобильных приложений — от архитектуры до продакшна.
-
-- Разработка мобильных приложений под **iOS и Android**
-- Frontend на **React** и **Ionic**
-- Проектирование и реализация **backend и API** под мобильные клиенты
-- Интеграция с внешними сервисами, платежами и бизнес-логикой
-- Подготовка к нагрузке, поддержка и масштабирование
-
-Делаю не «экранчики», а **рабочие мобильные продукты**, встроенные в бизнес-процессы.
+Контакты:
+- Telegram: @miroshkin222
 
 ---
 
-## Контекст и опыт
+## Чем могу быть полезен
 
-- Более **5 лет коммерческой разработки**
-- Государственные проекты с жёсткими сроками и приёмкой комиссии
-- Публичные запуски на большую аудиторию
-- B2B-сервисы, SaaS, e-commerce
-- Проекты, где важен **рабочий результат**, а не отчёт о проделанной работе
+### 1) Backend и продуктовая разработка
+- Laravel/PHP: API, интеграции, админки, поддержка и рефакторинг legacy
+- Python: фоновые воркеры, очереди, асинхронная обработка, сервисы автоматизации
+- SQL: проектирование БД, индексы, оптимизация запросов под нагрузку
+- Docker: воспроизводимые окружения, деплой без "магии"
+
+### 2) Browser automation и сбор данных (Playwright)
+Делаю автоматизацию браузера и сбор данных для легитимных бизнес-задач: мониторинг, контроль качества, интеграции, аналитика, регресс-проверки, нагрузочные сценарии.
+
+Что обычно закрываю:
+- устойчивые сценарии в браузере (авторизация, многошаговые формы, динамические интерфейсы)
+- работа с ограничениями по частоте и нестабильностью источников
+- распределение нагрузки через очереди и планировщики
+- наблюдаемость: логи, метрики, быстрые хотфиксы при изменениях источника
+
+Важно:
+- работаю только в рамках согласованных правил доступа и требований заказчика (включая ToS и правовые ограничения)
 
 ---
 
-## Технологии
+## Избранные кейсы (коротко)
 
-**Backend**
-- PHP, Python  
-- Laravel  
-- REST API и сложные интеграции  
-- Архитектура: MVC, ООП  
-- MySQL, PostgreSQL  
-- Redis  
-- Docker, базовый CI/CD  
+### WBDiscount - B2B-сервис для селлеров Wildberries
+- Контекст: проект год не могли довести до запуска, расходы росли
+- Роль: единственный разработчик, полная техническая ответственность
+- Итог: вывод в продакшн примерно за 3 месяца без расширения команды
 
-**Frontend (Web)**
-- Vue.js, Next.js  
-- React  
-- JavaScript, TypeScript  
-- HTML, CSS  
-- Vite, Webpack  
+### РГИС ПРИО - гос-проект с приемкой
+- Задача: реализовать систему с нуля в жесткие сроки
+- Итог: сделано примерно за 1 месяц, приемка с первого предъявления
 
-**Mobile**
-- React (iOS / Android)  
-- Ionic  
-- Интеграция мобильных клиентов с backend-сервисами  
+### Автоматизация для Wildberries/Ozon + Telegram-бот
+- Архитектура: API + асинхронные задачи + браузерные сценарии
+- Нагрузка: бот выдерживал 300-500 одновременных пользователей на одном сервере
 
-**Другое**
-- Git, Linux  
-- Работа с различными CMS и кастомными системами  
-- SaaS-архитектура и сервисные решения  
+### Faros (B2B) - ускорение сайта
+- Итог: скорость загрузки выросла в 5-10 раз, сайт перестал быть узким местом продаж
+
+---
+
+## Стек
+
+Backend:
+- PHP, Laravel
+- Python (async, воркеры, автоматизация)
+- PostgreSQL, MySQL
+- Redis
+- RabbitMQ
+- Docker, Linux, Git
+
+Frontend:
+- Vue.js, React
+- TypeScript, JavaScript
 
 ---
 
 ## Как я работаю
+- быстро вникаю в бизнес-контекст и ограничения
+- фиксирую риски заранее, предлагаю варианты
+- делаю так, чтобы систему можно было поддерживать после релиза
+- люблю предсказуемость: статусы, короткие итерации, контроль качества
 
-- Сначала разбираюсь в бизнес-контексте  
-- Говорю прямо, если задача не имеет смысла или бюджета  
-- Не продаю решения «вслепую»  
-- Думаю на несколько шагов вперёд  
-- Берусь только за то, за что готов отвечать  
+
+# ENGLISH VERSION
+
+# Alexey Miroshkin - Fullstack (PHP/Laravel + Python) | Browser Automation (Playwright) | Data Pipelines
+
+I build web services and automation for cases where "just call an API" is not enough: unstable UIs, rate limits, multi-step user flows, background jobs, queues, and production reliability.
+
+- 5+ years in commercial software development
+- High-responsibility launches with strict deadlines (including government acceptance)
+- E-commerce and marketplaces: automation, data collection, reliable background processing
+
+Contacts:
+- Telegram: @miroshkin222
 
 ---
 
-## Формат работы
+## What I do
 
-- Проекты под ключ  
-- Подключение на этапе кризиса или перед запуском  
-- Технический аудит с понятными выводами  
-- Ограниченное число проектов одновременно  
+### 1) Backend and product engineering
+- Laravel/PHP: APIs, integrations, admin panels, legacy maintenance and refactoring
+- Python: background workers, queues, async processing, automation services
+- SQL: schema design, indexing, query optimization under load
+- Docker: reproducible environments and predictable deployments
+
+### 2) Browser automation and data workflows (Playwright)
+I build browser-based automation and data workflows for legitimate business needs: monitoring, QA, analytics, integrations, regression checks, and operational tooling.
+
+Typical scope:
+- robust browser flows (auth, multi-step forms, dynamic UIs)
+- handling rate limits and source instability
+- distributing workload with queues and schedulers
+- observability: logs, metrics, fast fixes when sources change
+
+Note:
+- I work only within agreed access rules and compliance requirements (including ToS and legal constraints)
 
 ---
 
-Если вам нужен разработчик, который **не экспериментирует за ваш счёт**, а берёт ответственность и доводит продукт до рабочего состояния - можно обсудить задачу.
+## Selected highlights
+
+### WBDiscount - B2B service for Wildberries sellers
+- Context: product stuck for a year, costs rising
+- Role: single engineer, full technical ownership
+- Result: production launch in about 3 months without team expansion
+
+### RGIS PRIO - government project with formal acceptance
+- Goal: deliver from scratch in a strict timeframe
+- Result: built in about 1 month, accepted on the first submission
+
+### Wildberries/Ozon automation + Telegram bot
+- Architecture: API + async jobs + browser flows
+- Load: 300-500 concurrent users on a single server
+
+### Faros (B2B) - website performance boost
+- Result: 5-10x faster load, site stopped being a sales bottleneck
+
+---
+
+## Tech stack
+Backend:
+- PHP, Laravel
+- Python (async, workers, automation)
+- PostgreSQL, MySQL
+- Redis
+- RabbitMQ
+- Docker, Linux, Git
+
+Frontend:
+- Vue.js, React
+- TypeScript, JavaScript
